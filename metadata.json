@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Real-time precision market overview and financial dashboard inspired by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
